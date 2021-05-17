@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RadroachJohny
+- 👋 Hi, I’m Igor Lait
 - 👀 I’m interested in front-end application development
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying JavaScript and React
+- 💞️ I’m looking to collaborate on interesting projects that will be useful for wide public
 - 📫 How to reach me igorlaitofficial@gmail.com
 
 <!---
